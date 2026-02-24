@@ -1,0 +1,46 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .black { stroke:#000000; fill:none; stroke-width:2; }
+    .gray { stroke:#BBBBBB; fill:none; stroke-width:1.5; }
+    .text { font-family: Inter, Helvetica, Arial, sans-serif; font-size:20px; fill:#000000; text-anchor:middle; }
+    .small { font-family: Inter, Helvetica, Arial, sans-serif; font-size:16px; fill:#666666; text-anchor:middle; }
+  </style>
+
+  <!-- Spiral Path -->
+  <path d="M 500 800
+           C 700 750, 750 600, 600 500
+           C 450 400, 500 300, 650 250
+           C 800 200, 750 100, 500 120" class="gray"/>
+
+  <!-- Collapse -->
+  <circle cx="500" cy="800" r="60" class="black"/>
+  <text x="500" y="805" class="text">Collapse</text>
+
+  <!-- Responsibility -->
+  <circle cx="640" cy="700" r="60" class="black"/>
+  <text x="640" y="705" class="text">Responsibility</text>
+
+  <!-- Reframing -->
+  <circle cx="650" cy="540" r="60" class="black"/>
+  <text x="650" y="545" class="text">Reframing</text>
+
+  <!-- Conscious Response -->
+  <circle cx="520" cy="450" r="60" class="black"/>
+  <text x="520" y="455" class="text">Conscious</text>
+  <text x="520" y="480" class="text">Response</text>
+
+  <!-- Creation -->
+  <circle cx="580" cy="330" r="60" class="black"/>
+  <text x="580" y="335" class="text">Creation</text>
+
+  <!-- Contribution -->
+  <circle cx="680" cy="220" r="60" class="black"/>
+  <text x="680" y="225" class="text">Contribution</text>
+
+  <!-- Elevated Collapse -->
+  <circle cx="500" cy="120" r="60" class="black"/>
+  <text x="500" y="125" class="text">New Level</text>
+  <text x="500" y="150" class="small">Collapse</text>
+
+</svg>
