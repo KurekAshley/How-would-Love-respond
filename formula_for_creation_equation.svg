@@ -1,0 +1,57 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .black { stroke:#000000; fill:none; stroke-width:2; }
+    .gray { stroke:#888888; fill:none; stroke-width:1.5; }
+    .red { stroke:#C00000; fill:none; stroke-width:2.5; }
+    .text { font-family: Inter, Helvetica, Arial, sans-serif; font-size:22px; fill:#000000; text-anchor:middle; }
+    .small { font-family: Inter, Helvetica, Arial, sans-serif; font-size:18px; fill:#000000; text-anchor:middle; }
+    .redtext { font-family: Inter, Helvetica, Arial, sans-serif; font-size:22px; fill:#C00000; text-anchor:middle; }
+    .subtext { font-family: Inter, Helvetica, Arial, sans-serif; font-size:16px; fill:#666666; text-anchor:middle; }
+  </style>
+
+  <!-- Title Cause and Effect -->
+  <text x="500" y="60" class="text">Thoughts = Cause</text>
+  <text x="500" y="90" class="text">Results = Effect</text>
+
+  <!-- Core Equation Row -->
+  <rect x="150" y="150" width="200" height="80" rx="8" class="black"/>
+  <text x="250" y="195" class="text">Thoughts</text>
+
+  <text x="375" y="200" class="text">+</text>
+
+  <rect x="400" y="150" width="200" height="80" rx="8" class="black"/>
+  <text x="500" y="195" class="text">Actions</text>
+
+  <text x="625" y="200" class="text">=</text>
+
+  <rect x="650" y="150" width="200" height="80" rx="8" class="black"/>
+  <text x="750" y="195" class="text">Results</text>
+
+  <!-- T + A = R Label -->
+  <text x="500" y="260" class="small">T + A = R</text>
+
+  <!-- Divider Line -->
+  <line x1="200" y1="300" x2="800" y2="300" class="gray"/>
+
+  <!-- Amplified Equation -->
+  <rect x="100" y="350" width="250" height="80" rx="8" class="black"/>
+  <text x="225" y="395" class="text">Emotional Thoughts</text>
+
+  <text x="375" y="400" class="text">+</text>
+
+  <rect x="400" y="350" width="250" height="80" rx="8" class="black"/>
+  <text x="525" y="395" class="text">Massive Actions</text>
+
+  <text x="675" y="400" class="text">=</text>
+
+  <rect x="700" y="350" width="250" height="80" rx="8" class="red"/>
+  <text x="825" y="395" class="redtext">Ultimate Results</text>
+
+  <!-- ET + MA = UR Label -->
+  <text x="500" y="470" class="small">ET + MA = UR</text>
+
+  <!-- Amplification Note -->
+  <text x="500" y="520" class="subtext">Emotion amplifies thought. Massive action accelerates outcome.</text>
+
+</svg>
