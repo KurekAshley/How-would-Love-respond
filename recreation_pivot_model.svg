@@ -1,0 +1,34 @@
+<svg width="1000" height="900" viewBox="0 0 1000 900" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .black { stroke:#000000; fill:none; stroke-width:2; }
+    .gray { stroke:#BBBBBB; fill:none; stroke-width:1.5; }
+    .red { stroke:#C00000; fill:none; stroke-width:2.5; }
+    .text { font-family: Inter, Helvetica, Arial, sans-serif; font-size:20px; fill:#000000; text-anchor:middle; }
+    .redtext { font-family: Inter, Helvetica, Arial, sans-serif; font-size:20px; fill:#C00000; text-anchor:middle; }
+    .small { font-family: Inter, Helvetica, Arial, sans-serif; font-size:16px; fill:#666666; text-anchor:middle; }
+  </style>
+
+  <!-- Outer Result Ring -->
+  <circle cx="500" cy="450" r="300" class="gray"/>
+  <text x="500" y="170" class="text">Result</text>
+  <text x="500" y="195" class="small">(Current Outcome)</text>
+
+  <!-- Inner Cause Ring -->
+  <circle cx="500" cy="450" r="170" class="black"/>
+  <text x="500" y="440" class="text">Cause</text>
+  <text x="500" y="470" class="small">(Thoughts + Actions)</text>
+
+  <!-- Inward Arrow -->
+  <line x1="500" y1="150" x2="500" y2="280" class="black"/>
+  <text x="500" y="120" class="text">Examine Cause</text>
+
+  <!-- Red Pivot Text -->
+  <text x="500" y="520" class="redtext">How would love respond?</text>
+
+  <!-- Outward Arrow -->
+  <line x1="500" y1="620" x2="500" y2="750" class="black"/>
+  <text x="500" y="790" class="text">New Thoughts + New Actions</text>
+  <text x="500" y="820" class="small">New Result</text>
+
+</svg>
