@@ -1,0 +1,50 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .black { stroke:#000000; fill:none; stroke-width:2; }
+    .gray { stroke:#BBBBBB; fill:none; stroke-width:1.5; }
+    .text { font-family: Inter, Helvetica, Arial, sans-serif; font-size:20px; fill:#000000; text-anchor:middle; }
+    .centertext { font-family: Inter, Helvetica, Arial, sans-serif; font-size:24px; fill:#000000; text-anchor:middle; font-weight:500; }
+  </style>
+
+  <!-- Outer Orbit -->
+  <circle cx="500" cy="500" r="350" class="gray"/>
+
+  <!-- Center Node -->
+  <circle cx="500" cy="500" r="140" class="black"/>
+  <text x="500" y="495" class="centertext">Holistic Life</text>
+  <text x="500" y="525" class="centertext">Success</text>
+
+  <!-- Ingredient Nodes -->
+
+  <!-- Desire -->
+  <circle cx="500" cy="150" r="80" class="black"/>
+  <text x="500" y="155" class="text">Desire</text>
+
+  <!-- Passion / Enthusiasm -->
+  <circle cx="780" cy="260" r="80" class="black"/>
+  <text x="780" y="255" class="text">Passion</text>
+  <text x="780" y="280" class="text">Enthusiasm</text>
+
+  <!-- Belief -->
+  <circle cx="850" cy="500" r="80" class="black"/>
+  <text x="850" y="505" class="text">Belief</text>
+
+  <!-- Faith -->
+  <circle cx="780" cy="740" r="80" class="black"/>
+  <text x="780" y="745" class="text">Faith</text>
+
+  <!-- Action with Follow-Through -->
+  <circle cx="500" cy="850" r="80" class="black"/>
+  <text x="500" y="840" class="text">Action</text>
+  <text x="500" y="865" class="text">with Follow-Through</text>
+
+  <!-- Self-Acceptance -->
+  <circle cx="220" cy="740" r="80" class="black"/>
+  <text x="220" y="745" class="text">Self-Acceptance</text>
+
+  <!-- Contribution -->
+  <circle cx="150" cy="500" r="80" class="black"/>
+  <text x="150" y="505" class="text">Contribution</text>
+
+</svg>
