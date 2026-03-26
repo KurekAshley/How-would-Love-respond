@@ -1,9 +1,54 @@
 # Governance
 
-This repository documents the canonical structure of *How Would Love Respond*.
+---
 
-All framework language is derived from the source material.
+## Purpose
 
-No interpretive modifications may be introduced without explicit author approval.
+This repository exists to preserve and structure the contents of *How Would Love Respond?* in canonical form.
 
-This repository exists to preserve structural integrity, not reinterpret doctrine.
+---
+
+## Source Integrity
+
+- All material must remain aligned with the original text  
+- No new frameworks, terminology, or systems may be introduced  
+- No renaming of existing constructs is permitted  
+
+---
+
+## Modification Rules
+
+Permitted:
+
+- Formatting improvements  
+- Structural clarity  
+- Indexing enhancements  
+
+Not permitted:
+
+- Conceptual additions  
+- Interpretation beyond source language  
+- Expansion of frameworks beyond what is written  
+
+---
+
+## Framework Integrity
+
+Each framework must:
+
+- Exist explicitly in the source material  
+- Be documented independently  
+- Retain original naming  
+
+---
+
+## Glossary Integrity
+
+- Terms must originate from the source text  
+- No invented terminology may be added  
+
+---
+
+## Audit Requirement
+
+All updates must pass a source-faithfulness check before acceptance.
