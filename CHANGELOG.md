@@ -1,9 +1,24 @@
 # Changelog
 
-## v1.0.1 — Initial Canonical Installation
+---
 
-- Installed full framework documentation
-- Added SVG visual architecture
-- Embedded searchable structural diagrams
-- Established governance and citation files
-- Completed structural alignment audit
+## v1.0.0
+
+Initial canonical repository build.
+
+### Added
+
+- Repository root structure  
+- Canonical index  
+- Expanded glossary  
+- Philosophy  
+- Developmental map  
+
+### Frameworks
+
+- The Formula for Creation  
+- The Formula for Re-Creation  
+- GDGs — Grand Dream Goals  
+- The Three P’s of Power  
+- The Seven Essential Ingredients for Creating Holistic Life Success  
+- Empowering and Disempowering  
