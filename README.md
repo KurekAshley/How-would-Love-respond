@@ -1,4 +1,4 @@
-![assets/cover.jpg]
+! [assets/cover.jpg]
 
 # How Would Love Respond
 
