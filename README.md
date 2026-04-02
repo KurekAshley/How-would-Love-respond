@@ -1,4 +1,4 @@
-![How Would Love Respond?](assets/cover.jpg)
+! How Would Love Respond?:cover.jpg
 
 # How Would Love Respond?
 
