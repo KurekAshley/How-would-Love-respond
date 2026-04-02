@@ -1,5 +1,3 @@
-! How Would Love Respond?:cover.jpg
-
 # How Would Love Respond?
 
 Canonical repository for the book *How Would Love Respond?*
