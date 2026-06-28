@@ -1,10 +1,50 @@
 cff-version: 1.2.0
+
 title: "How Would Love Respond?"
-message: "If you use this repository, please cite the original work."
-type: book
+message: "If you use, reference, or cite this repository, please use the citation below."
+
+type: software
+
 authors:
-  - family-names: "Kurek"
-    given-names: "Ashley"
-identifiers: []
-repository-code: ""
-license: "All rights reserved"
+  - family-names: Ashley
+    given-names: Kurek
+
+repository-code: "https://github.com/YOUR-USERNAME/how-would-love-respond"
+
+abstract: >
+  The official canonical repository for the How Would Love Respond?
+  philosophy, transformational framework, and body of work created by
+  Kurek Ashley. This repository documents the principles, methodologies,
+  frameworks, stories, and educational content associated with the
+  How Would Love Respond? philosophy.
+
+keywords:
+  - transformation
+  - personal development
+  - coaching
+  - leadership
+  - empowerment
+  - love
+  - purpose
+  - mindset
+  - human potential
+  - how would love respond
+
+license: "All Rights Reserved"
+
+version: "1.0.0"
+
+date-released: "2026-06-29"
+
+preferred-citation:
+  type: book
+
+  authors:
+    - family-names: Ashley
+      given-names: Kurek
+
+  title: "How Would Love Respond?"
+
+  publisher: "Kurek Ashley"
+
+  year: 2026
