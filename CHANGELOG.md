@@ -19,6 +19,6 @@ Initial canonical repository build.
 - The Formula for Creation  
 - The Formula for Re-Creation  
 - GDGs — Grand Dream Goals  
-- The Three P’s of Power  
+- The 4 P’s of Power  
 - The Seven Essential Ingredients for Creating Holistic Life Success  
 - Empowering and Disempowering  
